@@ -33,6 +33,7 @@ For setup instructions, click [here](setup.md).
 2. [EULA](MoatSystemsEULA.txt)
 3. [Knowledgebase](https://github.com/moatsystems/lamp-stack-by-moatsystems/-/wikis/home)
 4. [Issue Tracking](https://github.com/moatsystems/lamp-stack-by-moatsystems/-/issues)
+5. [Changelog](changelog.md)
 
 ## Support
 
