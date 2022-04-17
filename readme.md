@@ -2,7 +2,7 @@
 
 LEMP enables you to quickly start building your websites and applications by providing a coding framework. As a developer, it provides standalone project directories to store your applications.
 
-This image is configured for production environments. It includes SSL auto-configuration with Let's Encrypt certificates, and the latest releases of PHP, Apache, and MySQL on Linux. This application also includes phpMyAdmin, PHP main modules and Composer.
+This image is configured for production environments. It includes SSL auto-configuration with Let's Encrypt certificates, and the latest releases of PHP, Nginx, and MySQL on Linux. This application also includes phpMyAdmin, PHP main modules and Composer.
 
 This open source solution is packaged by Moat Systems. Learn how to install, configure, and manage it. For deployment issues, reach out our support team [here](https://www.moatsystems.com/contact/).
 
