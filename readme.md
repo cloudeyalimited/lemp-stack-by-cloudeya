@@ -31,13 +31,13 @@ For setup instructions, click [here](setup.md).
 
 1. [Product Page](https://aws.amazon.com/marketplace/pp/prodview-razaxxxuz26z6)
 2. [EULA](MoatSystemsEULA.txt)
-3. [Knowledgebase](https://github.com/moatsystems/lamp-stack-by-moatsystems/-/wikis/home)
-4. [Issue Tracking](https://github.com/moatsystems/lamp-stack-by-moatsystems/-/issues)
+3. [Knowledgebase](https://github.com/moatsystems/lemp-stack-by-moatsystems/-/wikis/home)
+4. [Issue Tracking](https://github.com/moatsystems/lemp-stack-by-moatsystems/-/issues)
 5. [Changelog](changelog.md)
 
 ## Support
 
-[Email](mailto:hi@moatsystems.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate the LAMP Stack at any time.
+[Email](mailto:hi@moatsystems.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate the LEMP Stack at any time.
 
 ## Troubleshooting
 
