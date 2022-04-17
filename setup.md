@@ -32,7 +32,7 @@ To SSH into your EC2 instance:
 
 1. ```cd``` to the location of your .pem key
 2. Run ```chmod 600 mykey.pem``` to lock down your SSH key
-3. Run ```ssh -i /path/my-key-pair.pem ubuntu@<your ip address>```
+3. Run ```ssh -i /path/my-key-pair.pem ec2-user@<your ip address>```
 4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.moatsystems.com/contact/).
 
 ## Where is MySQL Password?
@@ -47,7 +47,7 @@ To SSH into your EC2 instance:
 1. Start MySQL/MariaDB without grant tables option.This will allow us to login to MySQL/MariaDB as a root user without a password
 
 ```bash
-$ sudo systemctl stop mysql
+$ sudo service mysql stop
 $ sudo mkdir -p /var/run/mysqld
 $ sudo chown mysql:mysql /var/run/mysqld
 $ sudo /usr/sbin/mysqld --skip-grant-tables --skip-networking &
