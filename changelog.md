@@ -3,6 +3,10 @@ LEMP Stack by Moat Systems
 
 This file is used to list changes made in each version.
 
+0.0.1-r04 – 24/04/2022
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - Ubuntu 22.04 Version Added
+
 0.0.1-r04 – 16/04/2022
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - Upgrade to PHP 8
