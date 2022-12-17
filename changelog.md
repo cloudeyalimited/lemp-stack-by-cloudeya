@@ -1,5 +1,5 @@
-LEMP Stack by Moat Systems
-==========================
+LEMP Stack by Cloudeya Limited
+==============================
 
 This file is used to list changes made in each version.
 
