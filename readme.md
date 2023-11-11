@@ -30,9 +30,9 @@ For setup instructions, click [here](setup.md).
 ## Links
 
 1. [Product Page](https://aws.amazon.com/marketplace/pp/prodview-razaxxxuz26z6)
-2. [EULA](MoatSystemsEULA.txt)
-3. [Knowledgebase](https://github.com/moatsystems/lemp-stack-by-moatsystems/-/wikis/home)
-4. [Issue Tracking](https://github.com/moatsystems/lemp-stack-by-moatsystems/-/issues)
+2. [EULA](CloudeyaLimitedEULA.txt)
+3. [Knowledgebase](https://github.com/cloudeyalimited/lemp-stack-by-cloudeya/-/wikis/home)
+4. [Issue Tracking](https://github.com/cloudeyalimited/lemp-stack-by-cloudeya/-/issues)
 5. [Changelog](changelog.md)
 
 ## Support
@@ -49,4 +49,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2020 - 2022 [Cloudeya Limited](https://cloudeya.org).
+(c) 2020 - 2023 [Cloudeya Limited](https://cloudeya.org).
