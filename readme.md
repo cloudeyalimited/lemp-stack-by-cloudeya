@@ -2,7 +2,7 @@
 
 LEMP enables you to quickly start building your websites and applications by providing a coding framework. As a developer, it provides standalone project directories to store your applications.
 
-This image is configured for production environments. It includes SSL auto-configuration with Let's Encrypt certificates, and the latest releases of PHP, Nginx, and MySQL on Linux. This application also includes phpMyAdmin, PHP main modules and Composer.
+This image is configured for production environments. It includes SSL auto-configuration with Let's Encrypt certificates, and the latest releases of PHP, Nginx, and MariaDB on Linux. This application also includes phpMyAdmin, PHP main modules and Composer.
 
 This open source solution is packaged by Cloudeya. Learn how to install, configure, and manage it. For deployment issues, reach out our support team [here](mailto:tech@cloudeya.org).
 
@@ -17,12 +17,13 @@ Cloudeya packages applications following industry standards, and continuously mo
 LEMP Stack by Cloudeya is pre-configured with the following technologies:
 
 + **Nginx (1.28.0)**: an open-source web server that is also used as a reverse proxy, HTTP cache, and load balancer.
-+ **PHP-FPM**: PHP FastCGI Process Manager that handles PHP execution with improved performance and resource management.
-+ **MariaDB**: an open source relational database management system that is a compatible drop-in replacement for MySQL.
++ **MariaDB (10.11)**: an open source relational database management system that is a compatible drop-in replacement for MySQL.
++ **PHP 8.4-FPM**: a popular general-purpose scripting language especially suited to web development, served through the PHP FastCGI Process Manager (FPM) for improved performance and resource management.
 + **Redis**: an in-memory data structure store used as a database, cache, and message broker.
-+ **PHP 8.3.26 (cli) (built: Sep 23 2025 17:57:26) (NTS gcc x86_64)**: a popular general-purpose scripting language especially suited to web development.
++ **Certbot**: an open-source client that automates the issuance and renewal of Let's Encrypt SSL/TLS certificates.
++ **Node.js (v22)**: a JavaScript runtime built on Chrome's V8 JavaScript engine, allowing you to run JavaScript on the server-side.
++ **PM2**: a production process manager for Node.js applications with a built-in load balancer.
 + **Composer**: Dependency Manager for PHP that helps declare, manage, and install dependencies of PHP projects.
-+ **Node.js (v18.20.8)**: a JavaScript runtime built on Chrome's V8 JavaScript engine, allowing you to run JavaScript on the server-side.
 
 ## Installation and Usage
 
@@ -50,4 +51,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2020 - 2025 [Cloudeya Limited](https://cloudeya.org).
+(c) 2020 - 2026 [Cloudeya Limited](https://cloudeya.org).

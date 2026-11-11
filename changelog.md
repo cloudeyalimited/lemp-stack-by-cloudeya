@@ -3,6 +3,12 @@ LEMP Stack by Cloudeya Limited
 
 This file is used to list changes made in each version.
 
+0.0.1-r07 – 11/11/2026
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - PHP 8.4-FPM
+- [Finbarrs Oketunji](https://finbarrs.eu) - NodeJS 22
+- [Finbarrs Oketunji](https://finbarrs.eu) - MariaDB 10.11
+
 0.0.1-r07 – 16/10/2025
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - PHP v8.3.26
